@@ -1,4 +1,5 @@
 # LSPACMAN
+## Author : Marc Millán Gimeno
 
 ## INTRODUCTION
 
@@ -24,4 +25,9 @@ The name of the game will serve as explained above, in order to load your game w
 The name of the player will be useful for us to be reflected if our name appears in the 5 best players that played in our Pacman. So, if this is the case, we will see in what position we are and how many points we have and the rest of the players, in the lower right corner of the game box.
  
 The third and last option gives us the right to choose which map we want to play. If we enter the "s" option, it will mean that we are accessing a previously preloaded map that will be the default map of the game. On the other hand, if we choose the "n" option, we can enter the name of the map we want to load to play as long as it meets the established parameters.
+
+## Language
+  - c++
+## Special Library used
+  - Allegro for drawing poligons
 
