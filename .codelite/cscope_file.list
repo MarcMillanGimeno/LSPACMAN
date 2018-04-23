@@ -1,0 +1,11 @@
+..\main.c
+..\LS_allegro.c
+..\LS_allegro.h
+..\Grafics.h
+..\Logica.c
+..\Tipus.h
+..\Logica.h
+..\Tipus.c
+..\Grafics.c
+..\Menu.h
+..\Menu.c

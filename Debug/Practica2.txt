@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/LS_allegro.c.o ./Debug/Logica.c.o ./Debug/Tipus.c.o ./Debug/Grafics.c.o ./Debug/Menu.c.o   
